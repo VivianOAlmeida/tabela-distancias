@@ -1,0 +1,15 @@
+.nenhuma {
+    	background-color: black;
+}
+th {
+		background-color: yellow;
+		font-family: verdana;
+		font-size: 15px;
+}
+td {
+		font-family: verdana;
+		font-size: 20px;
+}
+table {
+		background-color: #F8F8FF;
+}
