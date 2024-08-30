@@ -23,6 +23,23 @@ O projeto consiste na composição de uma tabela que conta com capitais brasilei
 * São Luís
 * São Paulo
 
+### Resultado do Projeto
+
+#### Tabela
+
+* table - Define o início e o fim da tabela.
+* tr - Define uma linha da tabela.
+* th - São usadas para definir os cabeçalhos das colunas.
+
+Veja uma imagem de parte do código, onde é possível identificar o uso dos elementos mencionados acima:
+
+![Demonstração](img/table_tr_th.PNG)
+
+* td - São usadas para definir o conteúdo das células de dados.
+
+![Demonstração 2](img/td.PNG)
+
+![Resultado final do projeto](img/resultado-final.PNG)
 
 ## Tecnologias
 
