@@ -45,7 +45,15 @@ Veja uma imagem de parte do código, onde é possível identificar o uso dos ele
 
 O projeto foi estilizado, utilizando CSS3. Foi criado um arquivo main.css. Nesse arquivo, constam configurações de estilo apresentadas a seguir:
 
+* Estilo de cores - A cor de fundo utilizada no projeto foi definida como segue:
 
+```
+th {
+		background-color: yellow;
+		font-family: verdana;
+		font-size: 15px;
+}
+```
 
 ## Tecnologias
 
